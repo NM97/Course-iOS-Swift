@@ -1,1 +1,1 @@
-# Course(Swift) - iOS & Swift - The Complete iOS App Development Bootcamp
+# Course - iOS & Swift - The Complete iOS App Development Bootcamp
